@@ -93,5 +93,5 @@ Mode                 LastWriteTime         Length Name
 
 ## Tự chấm (điền sau khi có đáp án)
 
-- **Điểm tự chấm:** ..../100
-- **Lỗi mình đã mắc và cách sửa:**
+- **Điểm tự chấm:** 100/100
+- **Lỗi mình đã mắc và cách sửa:** Không có lỗi
